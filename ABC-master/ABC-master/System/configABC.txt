@@ -1,0 +1,6 @@
+NumeroExperimentos=1
+Abejas=500
+NP=500
+Limit=10
+Trial=2
+Ejecuciones=2
